@@ -1,0 +1,6 @@
+{
+  "name": "KIT do TST @ddsnoinsta",
+  "description": "Página oficial do KIT do TST @ddsnoinsta com +2.5 GB de materiais exclusivos e editáveis de Segurança do Trabalho.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
